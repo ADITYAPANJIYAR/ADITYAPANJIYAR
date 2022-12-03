@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ADITYAPANJIYAR
-- 👀 I’m interested in learning new technoligies...
-- 🌱 I’m currently learning web and android development
-- 💞️ I’m looking to collaborate on anon-profitable organization
+- 👀 I’m interested in learning new technologies...
+- 🌱 I’m currently learning web and android development and develping my DSA skills.
 - 📫 How to reach me . you can reach me by my E-mail id- "aditya.8mi@gmail.com".
 - I am also a decent guitar player and singer.
 
