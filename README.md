@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ADITYAPANJIYAR
 - 👀 I’m interested in learning new technologies...
-- 🌱 I’m currently learning web and android development and develping my DSA skills.
-- check my LinkedIn Profile-"https://www.linkedin.com/in/adityapanjiyar/"
-- 📫 How to reach me . you can reach me by my E-mail id- "aditya.8mi@gmail.com".
+- Check my LinkedIn Profile-"https://www.linkedin.com/in/adityapanjiyar/"
+- 📫 How to reach me. you can reach me by my E-mail id- "aditya.8mi@gmail.com".
 - I am also a decent guitar player and singer.
 
 <!---
