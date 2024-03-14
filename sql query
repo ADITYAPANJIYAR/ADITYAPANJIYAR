@@ -1,0 +1,8 @@
+create table Employee_17227(
+employee_id number primary key,
+dob date,
+emp_name varchar(40),
+emp_email varchar(40)
+);
+
+select * from Employee_17227;
